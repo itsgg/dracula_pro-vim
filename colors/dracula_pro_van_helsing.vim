@@ -5,7 +5,7 @@ let g:dracula_pro#palette.selection = ['#414D58',  66]
 
 let g:dracula_pro#palette.bglighter = ['#161A1D',  23]
 let g:dracula_pro#palette.bglight   = ['#111417',  16]
-let g:dracula_pro#palette.bg        = ['#0B0D0F',  16]
+let g:dracula_pro#palette.bg        = ['#0B0D0F',  0]
 let g:dracula_pro#palette.bgdark    = ['#070809',  16]
 let g:dracula_pro#palette.bgdarker  = ['#000000',  16]
 
